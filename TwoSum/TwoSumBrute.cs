@@ -20,7 +20,7 @@ namespace lc1
                 {
                     for (int j = 1; j < nums.Count; j++)
                     {
-                        if (nums[i] + nums[j] == target)
+                        if (nums[j] == target - nums[i])
                         {
                             result.Add(i);
                             result.Add(j);
