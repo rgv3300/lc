@@ -39,7 +39,7 @@ namespace lc1
             public static List<int> Solution(List<int> nums, int target)
             {
                 List<int> result = new List<int>();
-                Dictionary<int, int> DictHash = new Dictionary<int, int>();
+                Dictionary<int, int> dictHash = new Dictionary<int, int>();
                 for (int i = 0; i < nums.Count; i++)
                 {
                     int complement = target - nums[i];
