@@ -20,11 +20,18 @@ namespace ReverseInteger
                     return 0;
                 }
                 int rev = 0;
-                while (input != 0)
+                try
                 {
-                    int rem = input % 10;
-                    input /= 10;
-                    rev = rev * 10 + rem;
+                    while (input != 0)
+                    {
+                        int rem = input % 10;
+                        input /= 10;
+                        rev = rev * 10 + rem;
+                    }
+                }
+                catch (OverflowException)
+                {
+                    return 0;
                 }
                 Console.WriteLine("result: " + rev);
 
