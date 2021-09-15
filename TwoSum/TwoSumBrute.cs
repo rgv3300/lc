@@ -43,11 +43,11 @@ namespace lc1
                 for (int i = 0; i < nums.Count; i++)
                 {
                     int complement = target - nums[i];
-                    DictHash.Add(nums[i], i);
-                    if (DictHash.ContainsKey(complement) && complement != nums[i])
+                    dictHash.Add(nums[i], i);
+                    if (dictHash.ContainsKey(complement) && complement != nums[i])
                     {
-                        result.Add(DictHash[nums[i]]);
-                        result.Add(DictHash[complement]);
+                        result.Add(dictHash[nums[i]]);
+                        result.Add(dictHash[complement]);
                         Console.WriteLine(String.Join(",", result));
                         return result;
                     }
