@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ReverseInteger
 {
@@ -6,7 +7,29 @@ namespace ReverseInteger
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int input = 2147483647;
+            StringToInt.Solution(input);
+        }
+
+        public class StringToInt
+        {
+            public static int Solution(int input)
+            {
+                if (input > int.MaxValue || input < int.MinValue)
+                {
+                    return 0;
+                }
+                int rev = 0;
+                while (input != 0)
+                {
+                    int rem = input % 10;
+                    input /= 10;
+                    rev = rev * 10 + rem;
+                }
+                Console.WriteLine("result: " + rev);
+
+                return rev;
+            }
         }
     }
 }

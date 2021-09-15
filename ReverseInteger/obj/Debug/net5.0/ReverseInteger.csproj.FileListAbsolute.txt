@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/bin/Debug/net5.0/ReverseInteger.deps.json
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/bin/Debug/net5.0/ReverseInteger.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/bin/Debug/net5.0/ReverseInteger.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/bin/Debug/net5.0/ReverseInteger.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/bin/Debug/net5.0/ref/ReverseInteger.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/bin/Debug/net5.0/ReverseInteger.pdb
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/obj/Debug/net5.0/ReverseInteger.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/obj/Debug/net5.0/ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/obj/Debug/net5.0/ReverseInteger.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/obj/Debug/net5.0/ReverseInteger.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/obj/Debug/net5.0/ReverseInteger.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/obj/Debug/net5.0/ReverseInteger.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/obj/Debug/net5.0/ref/ReverseInteger.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/obj/Debug/net5.0/ReverseInteger.pdb
+/Users/raghavbhalla/csharp/LC/lc/ReverseInteger/obj/Debug/net5.0/ReverseInteger.genruntimeconfig.cache
