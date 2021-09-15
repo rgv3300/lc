@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/bin/Debug/net5.0/BinarySearch.deps.json
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/bin/Debug/net5.0/BinarySearch.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/bin/Debug/net5.0/BinarySearch.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/bin/Debug/net5.0/BinarySearch.dll
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/bin/Debug/net5.0/ref/BinarySearch.dll
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/bin/Debug/net5.0/BinarySearch.pdb
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/obj/Debug/net5.0/BinarySearch.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/obj/Debug/net5.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/obj/Debug/net5.0/BinarySearch.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/obj/Debug/net5.0/BinarySearch.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/obj/Debug/net5.0/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/obj/Debug/net5.0/BinarySearch.dll
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/obj/Debug/net5.0/ref/BinarySearch.dll
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/obj/Debug/net5.0/BinarySearch.pdb
+/Users/raghavbhalla/csharp/LC/lc/BinarySearch/obj/Debug/net5.0/BinarySearch.genruntimeconfig.cache
