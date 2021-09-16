@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/bin/Debug/net5.0/Palindrome.deps.json
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/bin/Debug/net5.0/Palindrome.dll
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/bin/Debug/net5.0/ref/Palindrome.dll
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/bin/Debug/net5.0/Palindrome.pdb
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/obj/Debug/net5.0/Palindrome.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/obj/Debug/net5.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/obj/Debug/net5.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/obj/Debug/net5.0/Palindrome.dll
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/obj/Debug/net5.0/ref/Palindrome.dll
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/obj/Debug/net5.0/Palindrome.pdb
+/Users/raghavbhalla/csharp/LC/lc/Palindrome/obj/Debug/net5.0/Palindrome.genruntimeconfig.cache
