@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.deps.json
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.dll
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/bin/Debug/net5.0/ref/FirstBadVersion.dll
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.pdb
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.dll
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/obj/Debug/net5.0/ref/FirstBadVersion.dll
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.pdb
+/Users/raghavbhalla/csharp/LC/lc/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.genruntimeconfig.cache
