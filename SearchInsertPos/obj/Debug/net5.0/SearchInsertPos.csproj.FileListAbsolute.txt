@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/bin/Debug/net5.0/SearchInsertPos.deps.json
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/bin/Debug/net5.0/SearchInsertPos.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/bin/Debug/net5.0/SearchInsertPos.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/bin/Debug/net5.0/SearchInsertPos.dll
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/bin/Debug/net5.0/ref/SearchInsertPos.dll
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/bin/Debug/net5.0/SearchInsertPos.pdb
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/obj/Debug/net5.0/SearchInsertPos.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/obj/Debug/net5.0/SearchInsertPos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/obj/Debug/net5.0/SearchInsertPos.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/obj/Debug/net5.0/SearchInsertPos.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/obj/Debug/net5.0/SearchInsertPos.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/obj/Debug/net5.0/SearchInsertPos.dll
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/obj/Debug/net5.0/ref/SearchInsertPos.dll
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/obj/Debug/net5.0/SearchInsertPos.pdb
+/Users/raghavbhalla/csharp/LC/lc/SearchInsertPos/obj/Debug/net5.0/SearchInsertPos.genruntimeconfig.cache
