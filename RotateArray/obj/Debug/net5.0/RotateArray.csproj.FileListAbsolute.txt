@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/bin/Debug/net5.0/RotateArray.deps.json
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/bin/Debug/net5.0/RotateArray.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/bin/Debug/net5.0/RotateArray.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/bin/Debug/net5.0/RotateArray.dll
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/bin/Debug/net5.0/ref/RotateArray.dll
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/bin/Debug/net5.0/RotateArray.pdb
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/obj/Debug/net5.0/RotateArray.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/obj/Debug/net5.0/RotateArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/obj/Debug/net5.0/RotateArray.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/obj/Debug/net5.0/RotateArray.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/obj/Debug/net5.0/RotateArray.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/obj/Debug/net5.0/RotateArray.dll
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/obj/Debug/net5.0/ref/RotateArray.dll
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/obj/Debug/net5.0/RotateArray.pdb
+/Users/raghavbhalla/csharp/LC/lc/RotateArray/obj/Debug/net5.0/RotateArray.genruntimeconfig.cache
