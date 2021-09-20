@@ -6,8 +6,8 @@ namespace RotateArray
     {
         static void Main(string[] args)
         {
-            int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 17 };
-            int target = 5;
+            int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 };
+            int target = 20;
             Solution.Rotate(nums, target);
         }
 
@@ -15,9 +15,10 @@ namespace RotateArray
         {
             public static void Rotate(int[] nums, int k)
             {
-                int[] m = new int[k];
+                int p = k % nums.Length;
+                int[] m = new int[p];
                 int t = 0;
-                for (int i = nums.Length - k; i < nums.Length; i++)
+                for (int i = nums.Length - p; i < nums.Length; i++)
                 {
                     m[t] = nums[i];
                     t++;
