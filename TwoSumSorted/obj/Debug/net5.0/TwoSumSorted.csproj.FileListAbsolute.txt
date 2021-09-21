@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/bin/Debug/net5.0/TwoSumSorted.deps.json
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/bin/Debug/net5.0/TwoSumSorted.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/bin/Debug/net5.0/TwoSumSorted.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/bin/Debug/net5.0/TwoSumSorted.dll
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/bin/Debug/net5.0/ref/TwoSumSorted.dll
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/bin/Debug/net5.0/TwoSumSorted.pdb
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/obj/Debug/net5.0/TwoSumSorted.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/obj/Debug/net5.0/TwoSumSorted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/obj/Debug/net5.0/TwoSumSorted.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/obj/Debug/net5.0/TwoSumSorted.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/obj/Debug/net5.0/TwoSumSorted.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/obj/Debug/net5.0/TwoSumSorted.dll
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/obj/Debug/net5.0/ref/TwoSumSorted.dll
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/obj/Debug/net5.0/TwoSumSorted.pdb
+/Users/raghavbhalla/csharp/LC/lc/TwoSumSorted/obj/Debug/net5.0/TwoSumSorted.genruntimeconfig.cache
