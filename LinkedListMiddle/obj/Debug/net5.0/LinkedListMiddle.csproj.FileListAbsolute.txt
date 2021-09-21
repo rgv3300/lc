@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/bin/Debug/net5.0/LinkedListMiddle.deps.json
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/bin/Debug/net5.0/LinkedListMiddle.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/bin/Debug/net5.0/LinkedListMiddle.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/bin/Debug/net5.0/LinkedListMiddle.dll
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/bin/Debug/net5.0/ref/LinkedListMiddle.dll
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/bin/Debug/net5.0/LinkedListMiddle.pdb
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/obj/Debug/net5.0/LinkedListMiddle.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/obj/Debug/net5.0/LinkedListMiddle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/obj/Debug/net5.0/LinkedListMiddle.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/obj/Debug/net5.0/LinkedListMiddle.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/obj/Debug/net5.0/LinkedListMiddle.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/obj/Debug/net5.0/LinkedListMiddle.dll
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/obj/Debug/net5.0/ref/LinkedListMiddle.dll
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/obj/Debug/net5.0/LinkedListMiddle.pdb
+/Users/raghavbhalla/csharp/LC/lc/LinkedListMiddle/obj/Debug/net5.0/LinkedListMiddle.genruntimeconfig.cache

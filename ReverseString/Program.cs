@@ -6,14 +6,14 @@ namespace ReverseString
     {
         static void Main(string[] args)
         {
-            char[] s = { 'h', 'e', 'l', 'l', 'o' };
+            char[] s = { 'j','j','h', 'e', 'l', 'l', 'o' };
             Solution.ReverseString(s);
         }
         public class Solution
         {
             public static void ReverseString(char[] s)
             {
-                for (int i = 0; i < s.Length; i++)
+                for (int i = 0; i < s.Length / 2; i++)
                 {
                     char temp = s[i];
                     s[i] = s[s.Length - i - 1];

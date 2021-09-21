@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/bin/Debug/net5.0/ReverseWords.deps.json
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/bin/Debug/net5.0/ReverseWords.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/bin/Debug/net5.0/ReverseWords.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/bin/Debug/net5.0/ReverseWords.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/bin/Debug/net5.0/ref/ReverseWords.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/bin/Debug/net5.0/ReverseWords.pdb
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/obj/Debug/net5.0/ReverseWords.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/obj/Debug/net5.0/ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/obj/Debug/net5.0/ReverseWords.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/obj/Debug/net5.0/ReverseWords.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/obj/Debug/net5.0/ReverseWords.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/obj/Debug/net5.0/ReverseWords.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/obj/Debug/net5.0/ref/ReverseWords.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/obj/Debug/net5.0/ReverseWords.pdb
+/Users/raghavbhalla/csharp/LC/lc/ReverseWords/obj/Debug/net5.0/ReverseWords.genruntimeconfig.cache

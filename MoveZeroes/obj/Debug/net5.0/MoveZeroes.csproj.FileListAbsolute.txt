@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/bin/Debug/net5.0/MoveZeroes.deps.json
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/bin/Debug/net5.0/MoveZeroes.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/bin/Debug/net5.0/MoveZeroes.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/bin/Debug/net5.0/MoveZeroes.dll
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/bin/Debug/net5.0/ref/MoveZeroes.dll
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/bin/Debug/net5.0/MoveZeroes.pdb
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/obj/Debug/net5.0/MoveZeroes.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/obj/Debug/net5.0/MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/obj/Debug/net5.0/MoveZeroes.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/obj/Debug/net5.0/MoveZeroes.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/obj/Debug/net5.0/MoveZeroes.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/obj/Debug/net5.0/MoveZeroes.dll
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/obj/Debug/net5.0/ref/MoveZeroes.dll
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/obj/Debug/net5.0/MoveZeroes.pdb
+/Users/raghavbhalla/csharp/LC/lc/MoveZeroes/obj/Debug/net5.0/MoveZeroes.genruntimeconfig.cache
