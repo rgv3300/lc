@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/bin/Debug/net5.0/ReverseString.deps.json
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/bin/Debug/net5.0/ReverseString.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/bin/Debug/net5.0/ReverseString.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/bin/Debug/net5.0/ReverseString.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/bin/Debug/net5.0/ref/ReverseString.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/bin/Debug/net5.0/ReverseString.pdb
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/obj/Debug/net5.0/ReverseString.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/obj/Debug/net5.0/ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/obj/Debug/net5.0/ReverseString.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/obj/Debug/net5.0/ReverseString.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/obj/Debug/net5.0/ReverseString.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/obj/Debug/net5.0/ReverseString.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/obj/Debug/net5.0/ref/ReverseString.dll
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/obj/Debug/net5.0/ReverseString.pdb
+/Users/raghavbhalla/csharp/LC/lc/ReverseString/obj/Debug/net5.0/ReverseString.genruntimeconfig.cache
