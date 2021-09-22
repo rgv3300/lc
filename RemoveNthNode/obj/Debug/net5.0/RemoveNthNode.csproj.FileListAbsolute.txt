@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/bin/Debug/net5.0/RemoveNthNode.deps.json
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/bin/Debug/net5.0/RemoveNthNode.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/bin/Debug/net5.0/RemoveNthNode.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/bin/Debug/net5.0/RemoveNthNode.dll
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/bin/Debug/net5.0/ref/RemoveNthNode.dll
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/bin/Debug/net5.0/RemoveNthNode.pdb
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/obj/Debug/net5.0/RemoveNthNode.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/obj/Debug/net5.0/RemoveNthNode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/obj/Debug/net5.0/RemoveNthNode.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/obj/Debug/net5.0/RemoveNthNode.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/obj/Debug/net5.0/RemoveNthNode.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/obj/Debug/net5.0/RemoveNthNode.dll
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/obj/Debug/net5.0/ref/RemoveNthNode.dll
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/obj/Debug/net5.0/RemoveNthNode.pdb
+/Users/raghavbhalla/csharp/LC/lc/RemoveNthNode/obj/Debug/net5.0/RemoveNthNode.genruntimeconfig.cache
