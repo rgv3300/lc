@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/Heapify/bin/Debug/net5.0/Heapify.deps.json
+/Users/raghavbhalla/csharp/LC/lc/Heapify/bin/Debug/net5.0/Heapify.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/Heapify/bin/Debug/net5.0/Heapify.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/Heapify/bin/Debug/net5.0/Heapify.dll
+/Users/raghavbhalla/csharp/LC/lc/Heapify/bin/Debug/net5.0/ref/Heapify.dll
+/Users/raghavbhalla/csharp/LC/lc/Heapify/bin/Debug/net5.0/Heapify.pdb
+/Users/raghavbhalla/csharp/LC/lc/Heapify/obj/Debug/net5.0/Heapify.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/Heapify/obj/Debug/net5.0/Heapify.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/Heapify/obj/Debug/net5.0/Heapify.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/Heapify/obj/Debug/net5.0/Heapify.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/Heapify/obj/Debug/net5.0/Heapify.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/Heapify/obj/Debug/net5.0/Heapify.dll
+/Users/raghavbhalla/csharp/LC/lc/Heapify/obj/Debug/net5.0/ref/Heapify.dll
+/Users/raghavbhalla/csharp/LC/lc/Heapify/obj/Debug/net5.0/Heapify.pdb
+/Users/raghavbhalla/csharp/LC/lc/Heapify/obj/Debug/net5.0/Heapify.genruntimeconfig.cache
