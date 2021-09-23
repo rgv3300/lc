@@ -6,7 +6,7 @@ namespace Heapify
     {
         static void Main(string[] args)
         {
-            int[] arr = { 10, 2, 4, 5, 23, 532, 42 };
+            int[] arr = { 1, 3, 5, 4, 6, 13, 10, 9, 8, 15, 17 };
             int n = arr.Length;
             int i = (arr.Length / 2) - 1;
             for (int k = i; k >= 0; k--)
@@ -22,24 +22,19 @@ namespace Heapify
             int l = i * 2 + 1;
             int r = i * 2 + 2;
 
-            if (arr[l] > arr[r])
-            {
-                if (arr[l] > arr[i])
-                {
-                    int temp = arr[i];
-                    arr[i] = arr[l];
-                    arr[l] = temp;
-                }
-            }
+            if (l < n && arr[l] > arr[i])
+                largest = l;
 
-            if (arr[r] > arr[l])
+            if (r < n && arr[r] > arr[l])
+                largest = r;
+
+            if (largest != i)
             {
-                if (arr[r] > arr[i])
-                {
-                    int temp = arr[i];
-                    arr[i] = arr[r];
-                    arr[r] = temp;
-                }
+                int temp = arr[i];
+                arr[i] = arr[largest];
+                arr[largest] = temp;
+
+                Heapify(arr, n, largest);
             }
 
 
