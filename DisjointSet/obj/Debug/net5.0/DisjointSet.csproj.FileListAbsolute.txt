@@ -1,0 +1,15 @@
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/obj/Debug/net5.0/DisjointSet.csproj.AssemblyReference.cache
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/obj/Debug/net5.0/DisjointSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/obj/Debug/net5.0/DisjointSet.AssemblyInfoInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/obj/Debug/net5.0/DisjointSet.AssemblyInfo.cs
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/obj/Debug/net5.0/DisjointSet.csproj.CoreCompileInputs.cache
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/bin/Debug/net5.0/DisjointSet.deps.json
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/bin/Debug/net5.0/DisjointSet.runtimeconfig.json
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/bin/Debug/net5.0/DisjointSet.runtimeconfig.dev.json
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/bin/Debug/net5.0/DisjointSet.dll
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/bin/Debug/net5.0/ref/DisjointSet.dll
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/bin/Debug/net5.0/DisjointSet.pdb
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/obj/Debug/net5.0/DisjointSet.dll
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/obj/Debug/net5.0/ref/DisjointSet.dll
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/obj/Debug/net5.0/DisjointSet.pdb
+/Users/raghavbhalla/csharp/LC/lc/DisjointSet/obj/Debug/net5.0/DisjointSet.genruntimeconfig.cache
