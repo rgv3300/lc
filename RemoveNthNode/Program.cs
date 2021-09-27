@@ -35,7 +35,7 @@ namespace RemoveNthNode
                 LinkedList listEnd = head;
                 LinkedList temp = head;
                 int listLength = 1;
-                while (listEnd.value != 0 && listEnd.next != null)
+                while (listEnd.next != null)
                 {
                     listEnd = listEnd.next;
                     listLength++;
