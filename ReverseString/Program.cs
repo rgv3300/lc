@@ -6,8 +6,10 @@ namespace ReverseString
     {
         static void Main(string[] args)
         {
-            char[] s = { 'j','j','h', 'e', 'l', 'l', 'o' };
+            char[] s = { 'h', 's', 'u', 'r', 'i', 'j', 'j', 'h', 'e', 'l', 'l', 'o' };
             Solution.ReverseString(s);
+            string str = new string(s);
+            Console.WriteLine(str);
         }
         public class Solution
         {
