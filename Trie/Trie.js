@@ -35,14 +35,37 @@ const Trie = () => {
         return (node.keys.has(word) && node.keys.get(word).isEnd()) ? true : false;
     }
 
-    return {add, isWord};
+    const hasKey = (key) => {
+        return root.keys.has(key);
+    }
+
+    return {add, isWord, hasKey};
 }
 
 
+// leet code problem index pair of strings
+let text = "ababa";
+let words = ["aba", "ab"]
 let t = Trie();
 
-t.add('what');
-t.add('the');
-t.add('fuck');
-t.add('lol');
+for( let i = 0; i < words.length; i++) {
+    t.add(words[i]);
+}
+
+let result = [];
+
+
+for(let j = 0; j < text.length; j++) {
+    if(t.hasKey(text[j])) {
+        words.forEach((word,index) => {
+            if(t.isWord(text.slice(j, j + words[index].length))) {
+                result.push([j,j + words[index].length - 1]);
+            }
+        })
+    }
+}
+
+result.sort((a,b)=> a[0] === b[0] ? a[1] - b[1] : a[0] - b[0]);
+
+console.log(result);
 
